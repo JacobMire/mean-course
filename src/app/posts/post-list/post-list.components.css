@@ -1,0 +1,21 @@
+:host{
+    display: block;
+    margin-top: 1rem;
+}
+
+.headers{
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.info-text{
+    text-align: center;
+    font: roboto
+}
+
+mat-paginator {
+    margin-top: 1rem;
+    
+}
+
